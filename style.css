@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('FFF.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    icon: foto.jpeg;}
+
+.card {
+    background: rgba(0, 0, 0, 0.6);
+    max-width: 2000px;
+    margin: 100px auto;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.avatar {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    margin: 10px 0;
+}
+
+h1:hover{
+    color: yellow;
+}
+p1:hover{
+    color: red;
+}
+.contact-info:hover{
+    color: orange;
+}
